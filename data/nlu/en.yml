@@ -5,8 +5,6 @@ nlu:
     language: en
   examples:
   - text: |
-      nah
-  - text: |
       never mind
   - text: |
       no
